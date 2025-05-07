@@ -2,7 +2,7 @@
 
 **Projektarbeit zur IHK-Weiterbildung "Data Analyst (IHK)" von Christopher Haase**  
 **Abgabedatum:** 15.03.2025  
-**Werkzeug:** Microsoft Power BI & Excel
+**Werkzeug:** Microsoft Power BI  
 **Datenquellen:** Kaggle, Coingecko API, ChatGPT, Perplexity AI  
 **Dashboard-Titel:** Bitcoin und externe Faktoren – Eine historische Analyse  
 
