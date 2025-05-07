@@ -1,4 +1,4 @@
-# 📊 Power BI Datenanalyse: Bitcoin im Einfluss externer Faktoren
+# Power BI Datenanalyse: Bitcoin im Einfluss externer Faktoren
 
 **Projektarbeit zur IHK-Weiterbildung "Data Analyst (IHK)" von Christopher Haase**  
 **Abgabedatum:** 15.03.2025  
@@ -8,13 +8,13 @@
 
 ---
 
-## 🧠 Projektziel
+## Projektziel
 
 Ziel dieser Arbeit war die Entwicklung eines interaktiven Power BI Dashboards zur Analyse der historischen Bitcoin-Preisentwicklung im Zusammenhang mit bedeutenden externen Ereignissen. Die Analyse ermöglicht, makroökonomische, regulatorische und technologische Einflüsse auf den Bitcoin-Kurs sichtbar zu machen.
 
 ---
 
-## 🧩 Datenquellen & -aufbereitung
+## Datenquellen & -aufbereitung
 
 - **Kaggle CSV:** Historische Kursdaten (2010–2024)
 - **ChatGPT & Perplexity:** Recherche relevanter Ereignisse (z. B. ETF-Zulassungen, Hacks, Regulierungen)
@@ -23,7 +23,7 @@ Ziel dieser Arbeit war die Entwicklung eines interaktiven Power BI Dashboards zu
 
 ---
 
-## 📌 Dashboard-Komponenten
+## Dashboard-Komponenten
 
 ### Startseite
 - Live-Kurs von Bitcoin
@@ -40,7 +40,7 @@ Ziel dieser Arbeit war die Entwicklung eines interaktiven Power BI Dashboards zu
 
 ---
 
-## 📈 Erkenntnisse
+## Erkenntnisse
 
 - Bitcoin reagiert hochsensibel auf externe Faktoren.
 - Einführung von Bitcoin-Futures & ETFs hatten signifikante Auswirkungen.
@@ -49,7 +49,7 @@ Ziel dieser Arbeit war die Entwicklung eines interaktiven Power BI Dashboards zu
 
 ---
 
-## 🛠️ Technikstack
+## Technikstack
 
 - Power BI Desktop (inkl. Power Query, DAX)
 - Coingecko API (Live-Daten)
@@ -58,7 +58,7 @@ Ziel dieser Arbeit war die Entwicklung eines interaktiven Power BI Dashboards zu
 
 ---
 
-## 🧠 Persönliche Learnings
+## Persönliche Learnings
 
 - Vertiefung in Power BI, DAX und interaktive Dashboards
 - Umgang mit unvollständigen Datensätzen & Datenmodellen
@@ -66,10 +66,10 @@ Ziel dieser Arbeit war die Entwicklung eines interaktiven Power BI Dashboards zu
 
 ---
 
-## 🔗 Weitere Links
+## Weitere Links
 
-- [🔙 GitHub Portfolio Startseite](https://chriz85.github.io/portfolio/)
-- [📂 GitHub Repository (Data Analyst Projekt)](https://github.com/chriz85/ihk-data-analyst-projekt)
+- [GitHub Portfolio Startseite](https://chriz85.github.io/portfolio/)
+- [GitHub Repository (Data Analyst Projekt)](https://github.com/chriz85/ihk-data-analyst-projekt)
 
 ---
 
